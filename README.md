@@ -21,7 +21,7 @@ Invoke this PowerShell command:
 Invoke-Build init
 ```
 
-This command downloads the packages and set the environment variable `ClearScript`.
+This command downloads the packages and sets the environment variable `ClearScript`.
 
 If you are in Far Manager, restart it, to pick up the new variable `ClearScript`.
 
@@ -31,6 +31,12 @@ Now you can run some JavaScript in Far Manager.
 
 - [ClearScriptReplJS.far.ps1](ClearScriptReplJS.far.ps1)
 - [ClearScriptReplV8.far.ps1](ClearScriptReplV8.far.ps1)
+
+These script are invoked by PowerShellFar:
+
+```
+ps: ./ClearScriptReplJS.far.ps1
+```
 
 Type some JavaScript and see the output in the console.
 Try FarNet API, for example the exposed variable `far`:
