@@ -32,7 +32,7 @@ Now you can run some JavaScript in Far Manager.
 - [ClearScriptReplJS.far.ps1](ClearScriptReplJS.far.ps1)
 - [ClearScriptReplV8.far.ps1](ClearScriptReplV8.far.ps1)
 
-These script are invoked by PowerShellFar:
+These scripts are invoked by PowerShellFar:
 
 ```
 ps: ./ClearScriptReplJS.far.ps1
