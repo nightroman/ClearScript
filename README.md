@@ -1,5 +1,11 @@
 ﻿# ClearScript
 
+> **This development is obsolete. The repository will be archived.**
+
+Use the FarNet module `JavaScriptFar` from <https://github.com/nightroman/FarNet>.
+
+---
+
 ClearScript and FarNet lab for Far Manager scripting in JavaScript
 
 ### Requirements
